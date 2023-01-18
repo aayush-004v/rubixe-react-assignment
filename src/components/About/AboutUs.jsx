@@ -25,7 +25,7 @@ export default function AboutUs() {
               justifyContent="center"
               alignItems="center"
             >
-              Rubixeâ„¢ is a global technology company specializing in
+              Rubixe is a global technology company specializing in
               disruptive technologies â€“ Artificial Intelligence (AI), Machine
               Learning, Robotic Process Automation (RPA), BlockChain and
               Internet of Things (IoT). Rubixe mission to enable businesses to
@@ -35,7 +35,7 @@ export default function AboutUs() {
 
             <Typography mt={2} variant="subtitle1" fontWeight="400">
               Started in 2008, providing technology solutions based in the
-              Netherlands, founders of Rubixeâ„¢ have gained expertise in
+              Netherlands, founders of Rubixe have gained expertise in
               cutting-edge technology through delivering several smart city
               solutions for European Commission (EC) projects.
             </Typography>
