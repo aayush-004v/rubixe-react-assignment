@@ -9,7 +9,7 @@ export default function AboutUs() {
         <img
           src="https://csb-rny0nt.netlify.app/image/sectionfrist.jpg"
           alt="rubix-img"
-          width="100vw"
+          width="100%"
 //           height="auto"
         />
       </Box>
