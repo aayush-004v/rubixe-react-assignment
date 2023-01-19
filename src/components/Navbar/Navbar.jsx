@@ -73,7 +73,7 @@ function DrawerAppBar(props) {
         component="nav"
         style={{
           backgroundColor: "black",
-          padding: "15px",
+          padding: "5px",
           borderBottom: "0.5px solid #FFF"
         }}
       >
@@ -96,7 +96,7 @@ function DrawerAppBar(props) {
               src="https://rubixe.com/assets/img/logo/white-rubixe-logo.png"
               alt="rubixe-logo"
               width="200px"
-              height="65px"
+              height="60px"
             />
           </Typography>
           <Box sx={{ display: { xs: "none", sm: "block" } }}>
