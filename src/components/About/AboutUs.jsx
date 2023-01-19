@@ -7,7 +7,7 @@ export default function AboutUs() {
     <>
       <Box component="main" md={6} sm={12}>
         <img
-          src="https://cdn.wallpapersafari.com/4/97/mjLbqz.jpg"
+          src="https://csb-rny0nt.netlify.app/image/sectionfrist.jpg"
           alt="rubix-img"
           width="100%"
           height="auto"
