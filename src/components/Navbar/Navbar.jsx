@@ -73,8 +73,7 @@ function DrawerAppBar(props) {
         component="nav"
         style={{
           backgroundColor: "black",
-          padding: "5px",
-          borderBottom: "0.5px solid #FFF"
+          padding: "5px"
         }}
       >
         <Toolbar>
